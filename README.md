@@ -58,9 +58,11 @@ Here is the current list of What The Hack hackathons available in this repositor
 - [DevOps with GitHub](/031-DevOpsWithGitHub/readme.md)
 - [Azure DevOps](/010-AzureDevOps/readme.md)
 - [Open Source DevOps](/014-OSSDevOps/readme.md)
+- [MLOps from Scratch](/032-MLOpsFromScratch/README.md)
 - [Mastering Linux](/020-MasteringLinux/README.md)
 
 ## Data & AI
+- [MLOps from Scratch](/032-MLOpsFromScratch/README.md)
 - [BI 2 AI](/018-BI2AI/README.md)
 - [ThisOldDataWarehouse](/019-ThisOldDataWarehouse/README.md)
 - [Conversational AI](/030-ConversationalAI/README.md)
@@ -68,6 +70,8 @@ Here is the current list of What The Hack hackathons available in this repositor
 - [Intro To Azure AI](/002-IntroToAzureAI/README.md)
 - [Driving Miss Data](/003-DrivingMissData/README.md)
 
+## Microsoft Teams Platform
+- [Microsoft Teams: Make It Real](/034-MicrosoftTeams-MakeItReal/README.md)
 
 # [License](https://github.com/Microsoft/WhatTheHack/blob/master/LICENSE)
 This repository is licensed under MIT license. More info can be found [here](https://github.com/Microsoft/WhatTheHack/blob/master/LICENSE).

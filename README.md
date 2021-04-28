@@ -39,7 +39,6 @@ Here is the current list of What The Hack hackathons available in this repositor
 - [Azure Networking with Hub & Spoke](/035-HubAndSpoke/README.md)
 - [Azure Governance](/022-AzureGovernance/README.md)
 - [Mastering Linux](/020-MasteringLinux/README.md)
-- [SAP Automation](/024-SAP-Core/README.md)
 - [Windows Virtual Desktop](/037-WindowsVirtualDesktop/README.md)
 
 
@@ -69,6 +68,7 @@ Here is the current list of What The Hack hackathons available in this repositor
 - [BI 2 AI](/018-BI2AI/README.md)
 - [This Old Data Warehouse](/019-ThisOldDataWarehouse/README.md)
 - [Modern Data Warehouse - Covid 19](/038-MDWCovid19/README.md)
+- [Do You Even Synapse](/024-DoYouEvenSynapse/README.md)
 - [Conversational AI](/030-ConversationalAI/README.md)
 - [Databricks/Intro to ML](/008-DatabricksIntroML/README.md)
 - [Intro To Azure AI](/002-IntroToAzureAI/README.md)
